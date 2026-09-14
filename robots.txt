@@ -1,0 +1,3 @@
+# ATE staging — temporary pre-launch origin. Not for indexing.
+User-agent: *
+Disallow: /
